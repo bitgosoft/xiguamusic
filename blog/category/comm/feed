@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>技术交流 &#8211; 西瓜静听</title>
+	<atom:link href="https://www.PearPlayer.com/blog/category/comm/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.PearPlayer.com/blog</link>
+	<description>视觉享受，随“星”而动</description>
+	<lastBuildDate>Thu, 30 Sep 2021 04:59:47 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+
+<image>
+	<url>https://www.PearPlayer.com/blog/wp-content/uploads/2020/10/logo_player.png</url>
+	<title>技术交流 &#8211; 西瓜静听</title>
+	<link>https://www.PearPlayer.com/blog</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>主流显卡硬解支持情况一览</title>
+		<link>https://www.PearPlayer.com/blog/comm/741.html</link>
+		
+		<dc:creator><![CDATA[西瓜静听]]></dc:creator>
+		<pubDate>Sun, 19 Sep 2021 14:11:00 +0000</pubDate>
+				<category><![CDATA[技术交流]]></category>
+		<guid isPermaLink="false">https://www.PearPlayer.com/blog/?p=741</guid>
+
+					<description><![CDATA[西瓜静听在播放视频时会尝试根据用户的硬件情况，有线使用硬件解码和渲染。 然而如果用户硬件不支持硬解当前视频， &#8230; <a href="https://www.PearPlayer.com/blog/comm/741.html" class="more-link">继续阅读<span class="screen-reader-text">主流显卡硬解支持情况一览</span></a>]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

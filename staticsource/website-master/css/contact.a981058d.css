@@ -1,0 +1,54 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* 基于内容区1528设计稿还原 */
+
+html {
+  font-size: 6.54vw; /* (100vw / 1528) * 100 */
+}
+
+body {
+  font-size: 12px;
+}
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+
+a,
+a:link,
+a:visited,
+a:hover,
+a:active {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+/* 大屏适配 */
+
+@media (min-width: 1528px) {
+  html {
+    font-size: 100px;
+  }
+}
+
+/* 最小宽度 1024 */
+
+@media (max-width: 1020px) {
+  html {
+    font-size: 67px; /* (1024px / 1528) * 100 */
+  }
+
+  .pc {
+    overflow-x: auto;
+  }
+
+  .footer {
+    font-size: 14px;
+  }
+}
+

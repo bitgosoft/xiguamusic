@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>更新日志 &#8211; 西瓜静听</title>
+	<atom:link href="https://www.PearPlayer.com/blog/category/post/changelog/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.PearPlayer.com/blog</link>
+	<description>视觉享受，随“星”而动</description>
+	<lastBuildDate>Wed, 06 Apr 2022 03:53:43 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+
+<image>
+	<url>https://www.PearPlayer.com/blog/wp-content/uploads/2020/10/logo_player.png</url>
+	<title>更新日志 &#8211; 西瓜静听</title>
+	<link>https://www.PearPlayer.com/blog</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>版本 20220329192131</title>
+		<link>https://www.PearPlayer.com/blog/post/changelog/877.html</link>
+		
+		<dc:creator><![CDATA[西瓜静听]]></dc:creator>
+		<pubDate>Fri, 25 Mar 2022 11:45:39 +0000</pubDate>
+				<category><![CDATA[更新日志]]></category>
+		<guid isPermaLink="false">https://www.PearPlayer.com/blog/?p=877</guid>
+
+					<description><![CDATA[🚩 新功能： 支持杜比视界 支持 OpenGL Shader ✨ 优化： 缩略图扩展生成缩略图速度优化 音量优 &#8230; <a href="https://www.PearPlayer.com/blog/post/changelog/877.html" class="more-link">继续阅读<span class="screen-reader-text">版本 20220329192131</span></a>]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>版本 20220311120454</title>
+		<link>https://www.PearPlayer.com/blog/post/changelog/869.html</link>
+		
+		<dc:creator><![CDATA[西瓜静听]]></dc:creator>
+		<pubDate>Wed, 02 Mar 2022 07:13:58 +0000</pubDate>
+				<category><![CDATA[更新日志]]></category>
+		<guid isPermaLink="false">https://www.PearPlayer.com/blog/?p=869</guid>
+
+					<description><![CDATA[🚩 新功能： 基于插件的搜索 ✨ 优化： 插件地址解析流程优化 优化网络流信息检测 双字幕显示位置优化 插件运 &#8230; <a href="https://www.PearPlayer.com/blog/post/changelog/869.html" class="more-link">继续阅读<span class="screen-reader-text">版本 20220311120454</span></a>]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>版本 20220120113917</title>
+		<link>https://www.PearPlayer.com/blog/post/changelog/851.html</link>
+		
+		<dc:creator><![CDATA[西瓜静听]]></dc:creator>
+		<pubDate>Fri, 21 Jan 2022 04:19:51 +0000</pubDate>
+				<category><![CDATA[更新日志]]></category>
+		<guid isPermaLink="false">https://www.PearPlayer.com/blog/?p=851</guid>
+
+					<description><![CDATA[🐞 BUG 修复： 任务管理器结束进程出现的崩溃 均衡器删除自定义方案出现的崩溃 SubtitleSaver  &#8230; <a href="https://www.PearPlayer.com/blog/post/changelog/851.html" class="more-link">继续阅读<span class="screen-reader-text">版本 20220120113917</span></a>]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>版本 20220113195027</title>
+		<link>https://www.PearPlayer.com/blog/post/changelog/833.html</link>
+		
+		<dc:creator><![CDATA[西瓜静听]]></dc:creator>
+		<pubDate>Fri, 14 Jan 2022 03:48:12 +0000</pubDate>
+				<category><![CDATA[更新日志]]></category>
+		<guid isPermaLink="false">https://www.PearPlayer.com/blog/?p=833</guid>
+
+					<description><![CDATA[🚩 新功能： 插件快捷入口 打开 Url 失败后尝试使用安装的插件进行解析 ✨ 优化： 截图时，显示内置或外挂 &#8230; <a href="https://www.PearPlayer.com/blog/post/changelog/833.html" class="more-link">继续阅读<span class="screen-reader-text">版本 20220113195027</span></a>]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>版本 20211223174535</title>
+		<link>https://www.PearPlayer.com/blog/post/changelog/830.html</link>
+		
+		<dc:creator><![CDATA[西瓜静听]]></dc:creator>
+		<pubDate>Thu, 30 Dec 2021 10:52:13 +0000</pubDate>
+				<category><![CDATA[更新日志]]></category>
+		<guid isPermaLink="false">https://www.PearPlayer.com/blog/?p=830</guid>
+
+					<description><![CDATA[🚩 新功能： 支持网络流的投屏 一键恢复默认设置 多屏独立窗口播放 播放列表新增按播放进度排序 新增历史播放记 &#8230; <a href="https://www.PearPlayer.com/blog/post/changelog/830.html" class="more-link">继续阅读<span class="screen-reader-text">版本 20211223174535</span></a>]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

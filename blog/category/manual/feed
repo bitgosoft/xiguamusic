@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>使用手册 &#8211; 西瓜静听</title>
+	<atom:link href="https://www.PearPlayer.com/blog/category/manual/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.PearPlayer.com/blog</link>
+	<description>视觉享受，随“星”而动</description>
+	<lastBuildDate>Fri, 21 Jan 2022 08:57:51 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+
+<image>
+	<url>https://www.PearPlayer.com/blog/wp-content/uploads/2020/10/logo_player.png</url>
+	<title>使用手册 &#8211; 西瓜静听</title>
+	<link>https://www.PearPlayer.com/blog</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>西瓜静听下载功能</title>
+		<link>https://www.PearPlayer.com/blog/manual/856.html</link>
+		
+		<dc:creator><![CDATA[西瓜静听]]></dc:creator>
+		<pubDate>Fri, 21 Jan 2022 06:35:39 +0000</pubDate>
+				<category><![CDATA[使用手册]]></category>
+		<guid isPermaLink="false">https://www.PearPlayer.com/blog/?p=856</guid>
+
+					<description><![CDATA[西瓜静听支持文件BT下载，并提供专属的恒星加速，快来体验下吧。 如下图所示，直接将一个BT种子拖入播放器，或 &#8230; <a href="https://www.PearPlayer.com/blog/manual/856.html" class="more-link">继续阅读<span class="screen-reader-text">西瓜静听下载功能</span></a>]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>用西瓜静听播放网页视频</title>
+		<link>https://www.PearPlayer.com/blog/manual/837.html</link>
+		
+		<dc:creator><![CDATA[西瓜静听]]></dc:creator>
+		<pubDate>Fri, 14 Jan 2022 06:45:05 +0000</pubDate>
+				<category><![CDATA[使用手册]]></category>
+		<guid isPermaLink="false">https://www.PearPlayer.com/blog/?p=837</guid>
+
+					<description><![CDATA[在播放器的社群中,我们常遇见这样的问题: “为什么我在播放器中打开网页视频，无法播放？” 实际上播放器支持播放 &#8230; <a href="https://www.PearPlayer.com/blog/manual/837.html" class="more-link">继续阅读<span class="screen-reader-text">用西瓜静听播放网页视频</span></a>]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>西瓜静听投屏</title>
+		<link>https://www.PearPlayer.com/blog/manual/793.html</link>
+		
+		<dc:creator><![CDATA[西瓜静听]]></dc:creator>
+		<pubDate>Tue, 07 Dec 2021 04:23:22 +0000</pubDate>
+				<category><![CDATA[使用手册]]></category>
+		<guid isPermaLink="false">https://www.PearPlayer.com/blog/?p=793</guid>
+
+					<description><![CDATA[西瓜静听支持 DLNA 投屏协议，可以将手机 App 中的视频投到 PC 上的播放器中播放，也可以将 PC  &#8230; <a href="https://www.PearPlayer.com/blog/manual/793.html" class="more-link">继续阅读<span class="screen-reader-text">西瓜静听投屏</span></a>]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>西瓜静听命令行接口</title>
+		<link>https://www.PearPlayer.com/blog/manual/775.html</link>
+		
+		<dc:creator><![CDATA[西瓜静听]]></dc:creator>
+		<pubDate>Tue, 02 Nov 2021 07:19:15 +0000</pubDate>
+				<category><![CDATA[使用手册]]></category>
+		<guid isPermaLink="false">https://www.PearPlayer.com/blog/?p=775</guid>
+
+					<description><![CDATA[可以通过命令行启动播放器,并通过参数对播放器进行初始状态的控制]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>西瓜静听 插件系统常见问题</title>
+		<link>https://www.PearPlayer.com/blog/manual/744.html</link>
+		
+		<dc:creator><![CDATA[西瓜静听]]></dc:creator>
+		<pubDate>Thu, 30 Sep 2021 06:51:20 +0000</pubDate>
+				<category><![CDATA[使用手册]]></category>
+		<guid isPermaLink="false">https://www.PearPlayer.com/blog/?p=744</guid>
+
+					<description><![CDATA[现在恒星播放增加了插件系统，可以通过插件对播放器的功能进行增强。 由于插件系统依赖 Python 运行环境，在 &#8230; <a href="https://www.PearPlayer.com/blog/manual/744.html" class="more-link">继续阅读<span class="screen-reader-text">西瓜静听 插件系统常见问题</span></a>]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>
